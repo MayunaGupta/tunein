@@ -6,6 +6,8 @@
 
 This contains everything you need to run your app locally.
 
+Published App Available at: https://tunein-968914086464.us-west1.run.app
+
 View your app in AI Studio: https://ai.studio/apps/4c9bc398-3465-4199-afaa-cfa370a508ed
 
 ## Run Locally
